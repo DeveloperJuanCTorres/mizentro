@@ -48,7 +48,17 @@
         </div>
     </div>
     <div class="text-center pt-4" style="border-top: 1px solid var(--champagne-mist); background-color: var(--surface-white);">
-        <p class="small text-secondary-custom mb-0 py-3">© 2024 M&amp;ZENTRO. All rights reserved.</p>
+        <p class="small text-secondary-custom mb-1">
+            © 2026 M&ZENTRO. Todos los derechos reservados.
+        </p>
+
+        <p class="small text-secondary-custom mb-0 pb-3">
+            <i class="fas fa-code me-1"></i>
+            Desarrollado por
+            <a href="https://grupotyg.pe" target="_blank" class="text-decoration-none fw-semibold text-primary-custom">
+                Grupo TyG Ingenieros
+            </a>
+        </p>
     </div>
 </footer>
 
